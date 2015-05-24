@@ -1,0 +1,5 @@
+name: Jetpack
+author: Addisonep
+version: 0.0.1
+api: [1.11.0]
+main: addisonep\jetpack\jetpack
